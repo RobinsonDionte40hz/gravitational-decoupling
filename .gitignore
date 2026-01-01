@@ -49,3 +49,5 @@ Thumbs.db
 *.tmp
 *.bak
 *.log
+archive/raw_data/*.22d
+archive/raw_data/*.22O
