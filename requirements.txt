@@ -1,0 +1,16 @@
+# Requirements for Decoupling Simulation
+
+# Core scientific computing
+numpy>=1.24.0
+scipy>=1.11.0
+matplotlib>=3.7.0
+
+# Optional but recommended
+# qutip>=4.7.0  # For advanced quantum simulations (uncomment if needed)
+
+# Data handling
+pandas>=2.0.0
+
+# Jupyter support (optional)
+# jupyter>=1.0.0
+# ipykernel>=6.20.0
