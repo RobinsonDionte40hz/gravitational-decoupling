@@ -1,0 +1,161 @@
+{
+  "event_results": [
+    {
+      "event_id": "S1000a",
+      "event_time": "2021-09-18T03:24:40.434000+00:00",
+      "pre_peak_freq": 22.22222222222222,
+      "pre_peak_power": 5.11151707003283e-16,
+      "pre_snr": 1.0927969406290903,
+      "post_peak_freq": 13.333333333333332,
+      "post_peak_power": 7.67962466512163e-16,
+      "post_snr": 1.2708253314300713,
+      "enhancement": 1.502415928559602,
+      "freq_match": 1,
+      "error_mhz": 1.6666666666666679
+    }
+  ],
+  "control_results": [
+    {
+      "window_id": 0,
+      "peak_freq": 22.22222222222222,
+      "peak_power": 1.068797639874586e-15,
+      "snr": 2.510417610964762,
+      "error_from_prediction": 7.222222222222221
+    },
+    {
+      "window_id": 1,
+      "peak_freq": 17.77777777777778,
+      "peak_power": 2.961212540962895e-17,
+      "snr": 1.1938821388467453,
+      "error_from_prediction": 2.7777777777777786
+    },
+    {
+      "window_id": 2,
+      "peak_freq": 17.77777777777778,
+      "peak_power": 6.661622768322787e-17,
+      "snr": 1.148208248816594,
+      "error_from_prediction": 2.7777777777777786
+    },
+    {
+      "window_id": 3,
+      "peak_freq": 26.666666666666664,
+      "peak_power": 5.765773626683211e-17,
+      "snr": 1.8047948236502604,
+      "error_from_prediction": 11.666666666666664
+    },
+    {
+      "window_id": 4,
+      "peak_freq": 22.22222222222222,
+      "peak_power": 7.808371364121683e-15,
+      "snr": 1.0176427663513208,
+      "error_from_prediction": 7.222222222222221
+    },
+    {
+      "window_id": 5,
+      "peak_freq": 22.22222222222222,
+      "peak_power": 8.610413321583901e-17,
+      "snr": 1.3469860546043404,
+      "error_from_prediction": 7.222222222222221
+    },
+    {
+      "window_id": 6,
+      "peak_freq": 22.22222222222222,
+      "peak_power": 1.0508874164125182e-15,
+      "snr": 1.9238651819317465,
+      "error_from_prediction": 7.222222222222221
+    },
+    {
+      "window_id": 7,
+      "peak_freq": 26.666666666666664,
+      "peak_power": 7.796272000662938e-16,
+      "snr": 1.5217655212130017,
+      "error_from_prediction": 11.666666666666664
+    },
+    {
+      "window_id": 8,
+      "peak_freq": 26.666666666666664,
+      "peak_power": 9.20113438673149e-16,
+      "snr": 1.3503555317657978,
+      "error_from_prediction": 11.666666666666664
+    },
+    {
+      "window_id": 9,
+      "peak_freq": 13.333333333333332,
+      "peak_power": 1.119023455667486e-16,
+      "snr": 1.2949774501050266,
+      "error_from_prediction": 1.6666666666666679
+    },
+    {
+      "window_id": 10,
+      "peak_freq": 13.333333333333332,
+      "peak_power": 7.881589519374941e-16,
+      "snr": 1.2046838406639533,
+      "error_from_prediction": 1.6666666666666679
+    },
+    {
+      "window_id": 11,
+      "peak_freq": 22.22222222222222,
+      "peak_power": 1.8463148049419755e-16,
+      "snr": 1.2299781746042624,
+      "error_from_prediction": 7.222222222222221
+    },
+    {
+      "window_id": 12,
+      "peak_freq": 13.333333333333332,
+      "peak_power": 1.469791826698075e-15,
+      "snr": 1.2942482024802913,
+      "error_from_prediction": 1.6666666666666679
+    },
+    {
+      "window_id": 13,
+      "peak_freq": 17.77777777777778,
+      "peak_power": 1.5416061266271785e-17,
+      "snr": 1.0714647618035693,
+      "error_from_prediction": 2.7777777777777786
+    },
+    {
+      "window_id": 14,
+      "peak_freq": 26.666666666666664,
+      "peak_power": 4.558814580227374e-16,
+      "snr": 1.0501797278256833,
+      "error_from_prediction": 11.666666666666664
+    },
+    {
+      "window_id": 15,
+      "peak_freq": 17.77777777777778,
+      "peak_power": 4.537558521856446e-16,
+      "snr": 1.1880590991334135,
+      "error_from_prediction": 2.7777777777777786
+    },
+    {
+      "window_id": 16,
+      "peak_freq": 17.77777777777778,
+      "peak_power": 1.2186122910823122e-17,
+      "snr": 1.6293422115742693,
+      "error_from_prediction": 2.7777777777777786
+    },
+    {
+      "window_id": 17,
+      "peak_freq": 26.666666666666664,
+      "peak_power": 2.476079827050786e-16,
+      "snr": 1.6230111755885785,
+      "error_from_prediction": 11.666666666666664
+    },
+    {
+      "window_id": 18,
+      "peak_freq": 26.666666666666664,
+      "peak_power": 2.620586667810697e-16,
+      "snr": 1.7655680700588883,
+      "error_from_prediction": 11.666666666666664
+    },
+    {
+      "window_id": 19,
+      "peak_freq": 17.77777777777778,
+      "peak_power": 3.4735736124222737e-16,
+      "snr": 1.036150670417829,
+      "error_from_prediction": 2.7777777777777786
+    }
+  ],
+  "analysis_date": "2026-01-03T16:57:31.409999",
+  "predicted_frequency_mhz": 15.0
+}
