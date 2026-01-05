@@ -1,0 +1,171 @@
+Worldwide GNSS ionospheric response analysis of the magnitude 8.8 2010 Chilean earthquake and tsunami:
+a revisit
+Lucie Rolland1
+Edhah Munaibari1, Florian Zedek1, Pierre Sakic2, Anthony Sladen1,
+Carene Larmat3, T. Dylan Mikesell4, and Bertrand Delouis1
+
+4386 GNSS stations in Madrigal database
+
+Impulsive shaking of the upper atmosphere revealed with GPS
+3.5 km/s
+move out
+
+1km/s
+move out
+
+TECU
+
+Mw8.8 Maule
+earthquake
+epicenter
+
+0.2 km/s
+move out
+
+TECU
+
+Long distance seismo-acoustic impact: two phases identified
+3.5 km/s
+move out
+
+SPECFEM Model
+
+1km/s
+move out
+
+TECU
+
+Acoustic
+resonance
+
+Acoustic pulse
+(1 km/s)
+
+Arbitrary units
+
+Rayleigh-coupled
+wavefront (3.5 km/s)
+
+SPECFEM simulation
+
+Fast wave
+
+<3000 km
+
+Rayleigh wave
+
+Slower wave
+
+< 3000 km Acoustic pulse
+
+Overlap
+
+< 1000 km 2 above + rupture
+
+No evidence of acoustic resonance
+
+Comparison with Mw 9.0 Tohoku 2011
++10 min.
+
++20 min.
+
++1h
+Mw8.8 Maule earthquake
+
+TECU
+
+Rolland et al. (2011)
+
+No clear evidence of gravity waves,
+lack of data or lack of energy at low frequency ?
+Rolland et al. (2011); Occhipinti et al. (2013)
+
+Long distance seismo-acoustic impact on the upper atmosphere
+With some directionality
+
+Modeling:
+Mikesell et al. 2019;
+See also
+Zedek et al. (submitted)
+
+Northward
+
+Adapted from Rolland et al. 2013
+
+We see a larger amplitude northward, modeling shows it is due to the plasma drift along geomagnetic field lines
+
+Chile 2010 tsunami ionospheric signature offshore Hawaii
+Filtered STEC map
+Hodochron of filtered STEC time series
+
+TTT Hodochron of filtered STEC time series
+
+Galvan et al. (2010)
+Rolland et al. (2010)
+
+Chile 2010 tsunami ionospheric signature offshore Hawaii
+also from a ship
+
+Chile 2010 tsunami ionospheric signature in Japan
+Hodochron of filtered STEC time series
+
+200 m/s
+200 m/s
+
+Galvan et al. (2010)
+
+Galvan et al. (2010)
+
+Summary and conclusions
+Worldwide TEC analysis of 2010 Mw 8.8 Maule earthquake (Chile):
+• Clear near-source coseismic signal (forced by instantaneous
+deformation, rupture and surface waves)
+• Absence of Rayleigh waves TEC signal at teleseismic distance: need for
+higher rate GNSS data
+• Absence of clear GW resonances
+• Absence of clear AW resonances
+• Clear tsunami signal offshore Hawaii and Japan, signature with the
+largest extent
+Manual inspection, need for more automated processing
+Modeling supports the analysis
+• Phase discrimination in data
+• Northward directivity
+• not consistent with the bilateral rupture propagation
+• main driver: the plasma drift along Geomagnetic field lines
+We acknowledge support by ANR, CNES and UCA and collaboration with IPGP,
+data from Madrigal database
+
+Worldwide GNSS ionospheric response analysis
+of the magnitude 8.8 2010 Chilean earthquake and tsunami: a revisit
+TEC change (TECU)
+
+Lucie Rolland, E. Munaibari, F. Zedek, P. Sakic, A. Sladen, C. Larmat, T. D. Mikesell, B. Delouis
+
+TECU
+
+1 TECU
+
+4386 GNSS stations from Madrigal database
+
+Modeling the ionospheric coupling
+
+Northward
+directivity
+
+Our analysis shows:
+• Clear near-source coseismic signal (forced by
+instantaneous deformation, rupture and surface waves)
+• Strong northward directivity
+• Absence of GW and AW resonances (seen after 2011
+Mw9.0 earthquake)
+• Absence of Rayleigh waves TEC signal at teleseismic
+distance: need for higher rate GNSS data
+• Clear tsunami signal offshore Hawaii and Japan,
+signature with the largest extent
+Manual inspection, need for more automated processing
+
+Modeling the seismo-acoustic coupling
+
+We acknowledge support by ANR, CNES, UCA and collaboration with IPGP
+
+

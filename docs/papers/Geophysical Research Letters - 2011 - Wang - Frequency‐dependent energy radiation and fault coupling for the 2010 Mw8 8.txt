@@ -1,0 +1,491 @@
+GEOPHYSICAL RESEARCH LETTERS, VOL. 38, L22308, doi:10.1029/2011GL049652, 2011
+
+Frequency‐dependent energy radiation and fault coupling
+for the 2010 Mw8.8 Maule, Chile, and 2011 Mw9.0 Tohoku,
+Japan, earthquakes
+Dun Wang1,2 and Jim Mori1
+Received 16 September 2011; revised 20 October 2011; accepted 20 October 2011; published 22 November 2011.
+
+[1] We carried out back‐projections of teleseismic data
+filtered in different frequency bands for the 2010 Maule,
+Chile and the 2011 Tohoku, Japan earthquakes. For the
+Maule earthquake, there were differences along strike of the
+fault, with the high‐frequency energy mainly originating
+from an area 200 km northeast of the epicenter, whereas
+low‐frequency energy came from a location closer to the epicenter. The Tohoku earthquake shows strong frequency
+dependence in the dip direction. High‐frequency sources
+were located about 100 km west of the epicenter, while
+low‐frequency sources were around epicenter, near the Japan
+Trench. We compare the spatial distributions of energy with
+estimates of seismic coupling before the earthquakes. Areas
+of high‐frequency radiation seem correlated with regions that
+were strongly coupled before the earthquakes. Areas of high
+coupling, may be associated with fault properties that are
+more heterogeneous and/or have overall higher stress, producing higher frequency seismic waves. Citation: Wang, D.,
+
+showed that the largest slip occurred near the hypocenter or
+farther east toward the Japan Trench. In contrast, back
+projection results using teleseismic data which emphasized
+the higher frequency content showed sources of radiation that
+were primarily on the deeper portion of the fault west of the
+hypocenter [Ishii, 2011; Wang and Mori, 2011]. A frequency
+dependence in the spatial distribution of energy was also
+recognized following the 2010 Maule, Chile earthquake by
+Kiser and Ishii [2011].
+[4] In order to investigate the frequency‐dependency radiation of these two earthquakes, we carried out back projections
+analyses for the 2010 Maule and 2011 Tohoku earthquakes
+using data in different frequency bands. The spatial distributions of the energy radiation are compared to the pre‐
+earthquake estimates of seismic coupling on the fault and a
+possible correlation is suggested between the locked state of
+the fault and the energy radiation during the earthquakes.
+
+and J. Mori (2011), Frequency‐dependent energy radiation and
+fault coupling for the 2010 Mw8.8 Maule, Chile, and 2011
+Mw9.0 Tohoku, Japan, earthquakes, Geophys. Res. Lett., 38,
+L22308, doi:10.1029/2011GL049652.
+
+2. Methods and Data
+
+1. Introduction
+[2] In large earthquakes, the severe high‐frequency strong
+ground motions (1 to 10 Hz) and large amplitude low‐
+frequency (0.01 to 0.2 Hz) waves have usually been thought
+to originate from generally the same areas on the fault [e.g.,
+Somerville et al., 1999; Irikura and Miyake, 2011], namely
+the regions of large slip. This conclusion is based mainly on
+detailed studies of crustal earthquakes, Recently, however,
+the two great subduction earthquakes in Chile and Japan have
+shown that there can be a strong frequency‐dependence to
+the spatial distribution of the seismic radiation.
+[3] Soon after the 2011 Mw 9.0 Tohoku, Japan earthquake, it became apparent that there was a clear difference in
+locations of the sources of the large amplitude high‐ and low‐
+frequency radiation [Hara, 2011; Ide et al., 2011; Ishii, 2011;
+Koketsu et al., 2011; Koper et al., 2011; Lay et al., 2011;
+Simons et al., 2011; Yao et al., 2011]. Slip distribution models
+from GPS [e.g., Ito et al., 2011], tsunami [e.g., Fujii et al.,
+2011], and seismic [e.g., Shao et al., 2011] observations
+1
+
+Disaster Prevention Research Institute, Kyoto University, Uji,
+Japan.
+2
+Institute of Seismology, China Earthquake Administration, Wuhan,
+China.
+Copyright 2011 by the American Geophysical Union.
+0094‐8276/11/2011GL049652
+
+[5] To study the spatial distribution of energy radiation
+using a consistent method for different frequency bands, we
+use the back‐projection method [e.g., Ishii et al., 2005]. This
+technique estimates the source locations of the radiated
+energy for time windows of the P‐wave using slant stacks of
+array data. The travel time for each station in the stack were
+calculated using the theoretical travel times from the station
+to the grid point, using the software TauP [Crotwell et al.,
+1999] and the velocity structure IASPEI 1991 [Kennett
+and Engdahl, 1991].
+[6] The observed P‐wave data were filtered into three frequency bands. High‐frequency data were derived with a 1.0 Hz
+2 pole Butterworth high‐pass filter. Intermediate‐frequency
+data were derived by using 2‐pole Butterworth filters with
+corner frequencies at 0.2 and 1.0 Hz. Low‐frequency data
+were derived with a 0.2 Hz 2 pole Butterworth low‐pass filter.
+Station corrections were determined using cross correlations
+to align the first 6 seconds of all the data on the initial arrival.
+The locations of the sources of radiation were determined
+relative to the fixed epicenter determined by United States
+Geological Survey (USGS) for the Maule earthquake and
+Japan Meteorological Agency (JMA) for the Tohoku earthquake. A slightly different procedure was used to determine
+the stations corrections for the low‐frequency data of the
+Tohoku earthquake, as described below.
+[7] Kiser and Ishii [2011] carried out a similar frequency‐
+dependent analysis for the Maule earthquake, with results
+which are consistent this study. Also, Ishii [2011] studied
+the Tohoku earthquake using the same methodology, but the
+distinct spatial distributions for the high and low frequency
+radiation are not as clear as in our study. As pointed out by
+
+L22308
+
+1 of 6
+
+WANG AND MORI: FREQUENCY‐DEPENDENCY AND FAULT COUPLING
+
+L22308
+
+Figure 1. Grid locations tested for each time window in the back projection analyses of the (left) 2010 Maule, Chile earthquake and (right) 2011 Tohoku, Japan earthquake. Red stars show the epicenters and focal mechanisms are from USGS
+(Maule earthquake) and JMA (Tohoku earthquake).
+Ishii [2011], the resolution is poorer for the low‐frequency
+data due to the longer wavelengths. Also, for the Tohoku
+earthquake the small initial arrivals, especially at the low
+frequencies, make it even more difficult to accurately set the
+important station corrections. To improve the resolution of
+the low‐frequency results for the Tohoku earthquake, we
+used the Mw7.3 foreshock as an empirical correction for the
+mainshock. The foreshock occurred on March 9 about 60 km
+north of the mainshock epicenter. A back‐projection analysis
+using the low‐frequency data (low‐pass filtered at 0.2 Hz) of
+the foreshock shows a simple spatial maximum with dimensions of about 20 km. The position of this maximum was
+fixed to the centroid location given by the Global‐CMT
+moment tensor solution (38.58N 142.82E) and station corrections were calculated for the foreshock waveforms. These
+station corrections were then applied to the mainshock data
+and the locations of the mainshock energy radiation were
+determined relative to the foreshock centroid location. This
+procedure gave more stable results for the low‐frequency
+back‐projection. For example, the results had smaller dependence on the data window length.
+[8] Our analyses use broadband vertical components from
+USArray stations, which are located in the southwest and
+central regions of the United States. We used 451∼572 P‐wave
+recordings at distances of 65 to 96 degrees for the Maule and
+310∼420 P‐wave recordings at distances of 65 to 96 degrees
+for the Tohoku earthquake, depending on the coherences of
+the beginning 6 s and the availability of the foreshock seismograms for the Tohoku earthquake in the low frequency
+band. The USArray is not located close to a nodal plane for
+the focal mechanisms of either earthquake, so the waveform
+data should have stable amplitudes. For the back‐projection
+
+calculation, we set a horizontal grid of 61 × 26 points (600 ×
+300 km2) with a strike of 17.5° for the Maule earthquake, and
+set a grid of 61 × 21 points (600 × 160 km2) with a strike of
+15° for the Tohoku earthquake (Figure 1) covering the source
+regions inferred from the aftershock distributions.
+
+3. Results
+[9] Figure 2 shows the summed values over all time windows of the squared amplitudes at each grid point, for the
+three frequency bands of data for both earthquakes. This value
+can be roughly interpreted as proportional to the radiated
+energy. For both earthquakes the back projection results show
+clear differences in the spatial patterns of the energy radiation
+at different frequencies.
+[10] In the Maule earthquake, the differences are mostly
+along strike. Centroids for the high‐ and intermediate‐ frequency waves are located about 200 km north‐northeast of
+the epicenter. The high‐frequency results can track the propagation of the rupture front. The rupture propagates at a speed
+of about 2.9 km/s mainly to the north and can be seen in
+Animation S1 of the auxiliary material.1 Different from the
+region of high‐frequency radiation, the centroid of the low‐
+frequency radiation lies about 100 km north‐northeast of the
+epicenter well separated from the region of high‐frequency
+radiation. This region of the low‐frequency energy corresponds to the area of large displacement on the fault in many
+of the slip distribution models [e.g., Lorito et al., 2011].
+[11] While the Maule earthquake showed differences
+along strike, the Tohoku earthquake shows large frequency‐
+1
+Auxiliary materials are available in the HTML. doi:10.1029/
+2011GL049652.
+
+2 of 6
+
+19448007, 2011, 22, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011GL049652, Wiley Online Library on [05/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+L22308
+
+WANG AND MORI: FREQUENCY‐DEPENDENCY AND FAULT COUPLING
+
+L22308
+
+Figure 2. Cumulative radiated energies from the back‐projection analyses using data of the three frequency bands, for the
+(top) Maule, Chile earthquake and (bottom) Tohoku earthquake. Black stars show the epicenters.
+dependent differences in the dip direction. The centroid of
+the high‐frequency radiation is located west (down‐dip) of
+the hypocenter, while the centroid of the low‐frequency
+energy is around the epicenter and extend to the shallow
+updip portion. The location of the intermediate‐ frequency
+radiation lies in between. The downdip location west of the
+hypocenter for the high‐frequency radiation is consistent
+with numerous other studies that identify sources of the high‐
+frequency radiation from the onshore strong‐motion data
+[e.g., Kurahashi and Irikura, 2011] and teleseismic data [e.g.,
+Ishii, 2011; Zhang et al., 2011]. (Although Furumura et al.
+[2011] show possible high‐frequency sources east of the
+hypocenter.) The updip location of the low‐frequency radiation is generally consistent with the region of largest slip
+identified in many slip distribution models using tsunami,
+geodetic, and seismic data [e.g., Shao et al., 2011; Fujii et al.,
+2011]. The rupture propagation inferred for high‐frequency
+radiation shows an initial slow propagation toward the
+northwest at about 1.5 km/s then the rupture progresses
+down the fault to the southwest at about 3.0 km/s, as seen
+in Animation S2 of the auxiliary material.
+[12] Figure 3 shows the time progressions of the back
+projection results. The time position and stack amplitude for
+each time step of the three frequency bands are plotted in
+these figures. For the Maule earthquake (Figure 3, top) the
+time propagation for the three frequency bands is rather
+similar toward the north, however the regions of the maxi-
+
+mum amplitude are quite different. The top middle figure
+shows the summed amplitudes as a function of latitude,
+where it can be seen that there are large amplitudes for the
+high‐ and intermediate‐frequency data near 34°S while the
+large amplitudes for the low‐frequency data are farther south
+around 35°S.
+[13] For the Tohoku earthquake (Figure 3, bottom), one
+can clearly see the separate, nearly parallel regions for the
+radiation of the three frequency bands. The high‐frequency
+sources are originating along the deeper downdip edge of
+the fault plane, the intermediate‐frequency sources are in the
+middle region, and the low‐frequency sources are around
+the epicenter and extend to the shallow updip portion. The
+observed P‐wave amplitudes are proportional to moment,
+and if the results are converted to fault displacements, large
+values near the trench will be further emphasized because of
+the lower velocities at shallower depth [Lay et al., 2011].
+
+4. Resolution of Locations
+[14] The results of this study depend on the accuracy of
+the locations for the radiation sources in the three frequency
+bands. We considered several factors that may affect our
+location estimates.
+[15] We tested six different stacking windows lengths
+(10 s, 15 s, 20 s, 25 s, 30 s, and 40 s) to estimate the source
+locations for the three different frequency bands, as shown in
+
+3 of 6
+
+19448007, 2011, 22, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011GL049652, Wiley Online Library on [05/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+L22308
+
+WANG AND MORI: FREQUENCY‐DEPENDENCY AND FAULT COUPLING
+
+L22308
+
+Figure 3. Locations and amplitudes for the stack with the maximum correlation at each time step (2 s) of the high, intermediate and low frequency data (red, green, and blue, respectively), for the (top left) Maule earthquake and (bottom left)
+Tohoku earthquake. The top middle figure shows the summed amplitudes as a function of latitude for the Maule earthquake.
+The figures on the right show the regions of seismic coupling before the two earthquakes. Thin and thick red ellipses enclose
+the region of 75% and 85% coupling, respectively. Coupling data for the Maule earthquake are taken from Moreno et al.
+[2010] and for the Tohoku earthquake from Suwa et al. [2006]. Areas of strong coupling shown by the red lines appear to
+correlate with sources of high‐frequency radiation. Blue dashed lines show areas of less coupling and large slip during the
+earthquake. Black stars show the epicenters.
+Figures S1 and S2 of the auxiliary material. We performed
+a synthetic check using an empirical Green’s function
+method (see detailed explanation in the auxiliary material).
+The results show that the location uncertainties in the
+different frequency data back projections are about 20 km
+or less (Figures S3 and S4 of the auxiliary material). The
+empirical station corrections for the low‐frequency Tohoku
+data used the Mw7.3 foreshock data. We also carried out
+the same procedure using a nearby Mw7.0 aftershock. The
+resultant locations of the mainshock energy radiation are
+quite similar (Figures S5 and S6 of the auxiliary material).
+
+5. Correlation of Areas of High‐Frequency
+Radiation and Strong Seismic Coupling
+[16] Moreno et al. [2010] show a high‐resolution image of
+the pre‐seismic locked state of the plate interface for the
+source region of the 2010 Maule earthquake from a decade of
+GPS data. The degree to which the fault is locked (seismic
+coupling) tells us how much stress is being accumulated on
+the fault, and thus should be related to the amount of slip and
+
+energy radiation that occurs at the time of a large earthquake.
+If we compare their pre‐locked areas (strong coupling) with
+our frequency‐dependent energy distributions, we can see a
+correlation with the regions of high‐frequency radiation
+(Figure 3). Also, the source area of low‐frequency radiation
+(and large fault displacement) appears to correlate with a
+region of relatively less coupling. This is somewhat surprising
+since simple elastic models imply that areas of strong coupling should have large slip.
+[17] For the source region of the Tohoku earthquake, Suwa
+et al. [2006] show a large area of strong coupling located west
+of the epicenter (Figure 3). Similar to the Maule earthquake,
+the area of high frequency radiation may be related to this
+pre‐locked area. The area of large displacement and low‐
+frequency radiation around the epicenter, may be associated
+with an area on the shallow part of the fault that may not have
+been coupled as strongly.
+[18] There are other models for the seismic coupling in the
+Tohoku area. The regional distribution shown by Loveless
+and Meade [2010] also shows higher coupling in the region
+west of the hypocenter, but the correlation with areas of high‐
+
+4 of 6
+
+19448007, 2011, 22, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011GL049652, Wiley Online Library on [05/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+L22308
+
+WANG AND MORI: FREQUENCY‐DEPENDENCY AND FAULT COUPLING
+
+L22308
+
+Figure 4. Sketch map of frequency dependency for the (a) 2010 Mw 8.8 Chile earthquake and (b) 2011 Mw 9.0 Tohoku
+earthquake. The red areas are the source of high‐frequency radiation that are inferred to be highly coupled before the earthquakes. The blue shadow areas show regions of low‐frequency energy that are associated with large slip.
+frequency is not as clear. One problem is that the area of large
+slip for the Tohoku earthquakes is relatively far offshore
+where it is difficult to resolve the preseismic deformation
+from onshore GPS observations.
+
+6. Discussion
+[19] The connection between seismic coupling and high‐
+frequency radiation may be reasonable since stronger coupling
+implies higher stress. Higher stress before the earthquake
+could produce higher stress drops during the earthquake,
+which would result in larger ground accelerations. In simple
+elastic fault models and propagation, ground acceleration is
+proportional to stress drop. Also, regions of higher stress may
+have more stress heterogeneity, which would also contribute
+to the high‐frequency radiation. It is more difficult to explain
+why the slip during the earthquake can be larger in the areas
+of lower coupling. Back‐slip models [e.g., Savage, 1983]
+are often used to estimate the amount of slip in future earthquakes and assume that there will be larger slip in areas that
+have higher strain rates and higher coupling. For the Tohoku
+earthquake, this is an especially important issue, since it was
+previously thought that the shallow portion of the megathrust
+was not strongly coupled and therefore would not have large
+slip. The Maule, and possibly Tohoku, earthquakes seem
+to indicate that even a region with relatively low seismic
+coupling can produce larger slip. If this is true, there are
+other important considerations that can strongly control the
+amount of slip during an earthquake, such as the related
+effects of fault friction, complete stress drop, and rupture
+dynamics.
+[20] Difference in the frequency content for the seismic
+waves is an important factor for understanding the damage
+caused by large earthquakes. Kiser and Ishii [2011] pointed
+out that the areas of low‐frequency radiation are likely to be
+more tsunamigenic, which was clearly the case for the Tohoku
+earthquake. Also, the Tohoku earthquake produced ground
+motions with large high‐frequency accelerations but more
+moderate amplitudes at 0.5 to 1.0 Hz [e.g., Si et al., 2011].
+
+The latter is the frequency range important for damage to one
+and two story wooden structures. This observation seemed
+somewhat puzzling at first, since one would expect large low‐
+frequency amplitudes and relatively smaller high‐frequency
+amplitudes for a large earthquake with large shallow slip
+located far offshore. However, the frequency characteristics
+of the strong ground motions can be well explained if the
+high‐frequency sources are on the deeper down‐dip portion
+of the faults plane (closer to land), as was shown in this study.
+
+7. Conclusions
+[21] The results from the two recent great earthquakes in
+Chile and Japan show that there can be a spatially different
+pattern to the high‐ and low‐frequency radiation from the
+fault plane of an earthquake. The Maule earthquake shows
+lateral differences along strike for the sources of the high‐
+and low‐frequency energy radiation, whereas the Tohoku
+earthquake shows strong differences in the dip direction
+(Figure 4). This frequency dependence in the radiation may
+be associated with the seismic coupling on the fault prior to
+the earthquake. Areas of high coupling, may be more heterogeneous and/or have an overall higher stress level so that
+these regions are more likely to produce higher frequency
+radiation.
+[22] Acknowledgments. This work was partly supported by NSFC
+grant 41004020. USArray data were obtained from the Incorporated
+Research Institutions for Seismology (IRIS) Data Management Center.
+All the figures were created using the Generic Mapping Tools (GMT) of
+Wessel and Smith [1991]. We also thank the two anonymous reviewers
+for helpful comments.
+[23] The Editor thanks two anonymous reviewers for their assistance in
+evaluating this paper.
+
+References
+Crotwell, H. P., T. J. Owens, and J. Ritsema (1999), The TauP Toolkit:
+Flexible seismic travel‐time and ray‐path utilities, Seismol. Res. Lett.,
+70, 154–160, doi:10.1785/gssrl.70.2.154.
+
+5 of 6
+
+19448007, 2011, 22, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011GL049652, Wiley Online Library on [05/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+L22308
+
+WANG AND MORI: FREQUENCY‐DEPENDENCY AND FAULT COUPLING
+
+Fujii, Y., K. Satake, S. Sakai, M. Shinohara, and T. Kanazawa (2011),
+Tsunami source of the 2011 off the Pacific coast of Tohoku, Japan
+earthquake, Earth Planets Space, 63, 815–820, doi:10.5047/
+eps.2011.06.010.
+Furumura, T., S. Takemura, S. Noguchi, T. Takemoto, T. Maeda, K. Iwai,
+and S. Padhy (2011), Strong ground motions from the 2011 off‐the
+Pacific‐Coast‐of‐Tohoku, Japan (Mw = 9.0) earthquake obtained from a
+dense nationwide seismic network, Landslides, 8, 333–338, doi:10.1007/
+s10346-011-0279-3.
+Hara, T. (2011), Magnitude determination using duration of high frequency
+energy radiation and displacement amplitude: Application to the 2011 off
+the Pacific Coast of Tohoku earthquake, Earth Planets Space, 63,
+525–528, doi:10.5047/eps.2011.05.014.
+Ide, S., A. Baltay, and G. C. Beroza (2011), Two faces of the great Tohoku
+earthquake: Shallow dynamic overshoot and energetic deep rupture,
+Science, 332(6036), 1426–1429, doi:10.1126/science.1207020.
+Irikura, K., and H. Miyake (2011), Recipe for predicting strong ground
+motion from crustal earthquake scenarios, Pure Appl. Geophys., 168,
+85–104, doi:10.1007/s00024-010-0150-9.
+Ishii, M. (2011), High‐frequency rupture properties of the Mw 9.0 off‐the‐
+Pacific‐Coast‐of‐ Tohoku earthquake, Earth Planets Space, 63, 609–614,
+doi:10.5047/eps.2011.07.009.
+Ishii, M., P. Shearer, H. Houston, and J. E. Vidale (2005), Extent, duration
+and speed of the 2004 Sumatra‐Andaman earthquake imaged by the
+Hi‐Net array, Nature, 435(7044), 933–936, doi:10.1038/nature03675.
+Ito, T., K. Ozawa, T. Watanabe, and T. Sagiya (2011), Slip distribution of
+the 2011 Tohoku earthquake inferred from geodetic data, Earth Planets
+Space, 63, 627–630, doi:10.5047/eps.2011.06.023.
+Kennett, B. L. N., and E. R. Engdahl (1991), Traveltimes for global earthquake location and phase identication, Geophys. J. Int., 105, 429–465,
+doi:10.1111/j.1365-246X.1991.tb06724.x.
+Kiser, E., and M. Ishii (2011), The 2010 Mw 8.8 Chile earthquake: Triggering on multiple segments and frequency‐dependent rupture behavior,
+Geophys. Res. Lett., 38, L07301, doi:10.1029/2011GL047140.
+Koketsu, K., et al. (2011), A unified source model for the 2011 Tohoku
+earthquake, Earth Planet. Sci. Lett., 310, 480–487, doi:10.1016/j.epsl.
+2011.09.009.
+Koper, K., A. R. Hutko, T. Lay, C. J. Ammon, and H. Kanamori (2011),
+Frequency‐dependent rupture process of the 11 March 2011 MW 9.0
+Tohoku earthquake: Comparison of short‐period P wave backprojection
+images and broadband seismic rupture models, Earth Planets Space,
+63, 599–602, doi:10.5047/eps.2011.05.026.
+Kurahashi, S., and K. Irikura (2011), Source model for generating strong
+ground motions during the 2011 off Pacific coast of Tohoku Earthquake,
+Earth Planets Space, 63, 571–576, doi:10.5047/eps.2011.06.044.
+Lay, T., C. J. Ammon, H. Kanamori, L. Xue, and M. J. Kim (2011), Possible large near‐trench slip during the great 2011 Tohoku (MW 9.0)
+earthquake, Earth Planets Space, 63, 687–692, doi:10.5047/
+eps.2011.05.033.
+
+L22308
+
+Lorito, S., F. Romano, S. Atzori, X. Tong, A. Avallone, J. McCloskey,
+M. Cocco, E. Boschi, and A. Piatanesi (2011), Limited overlap
+between the seismic gap and coseismic slip of the great 2010 Chile
+earthquake, Nat. Geosci., 4, 173–177, doi:10.1038/ngeo1073.
+Loveless, J. P., and B. J. Meade (2010), Geodetic imaging of plate motions,
+slip rates, and partitioning of deformation in Japan, J. Geophys. Res.,
+115, B02410, doi:10.1029/2008JB006248.
+Moreno, M., M. Rosenau, and O. Oncken (2010), 2010 Maule earthquake
+slip correlates with pre‐seismic locking of Andean subduction zone,
+Nature, 467, 198–202, doi:10.1038/nature09349.
+Savage, J. C. (1983), A dislocation model of strain accumulation and
+release at a subduction zone, J. Geophys. Res., 88, 4984–4996,
+doi:10.1029/JB088iB06p04984.
+Shao, G., X. Li, C. Ji, and T. Maeda (2011), Focal mechanism and slip
+history of 2011 Mw 9.1 off the Pacific coast of Tohoku Earthquake,
+constrained with teleseismic body and surface waves, Earth Planets
+Space, 63, 559–564, doi:10.5047/eps.2011.06.028.
+Si, H., H. S. Kuyuk, K. Koketsu, and H. Miyake (2011), Attenuation characteristics of peak ground motions during the 2011 Tohoku Japan, earthquake, Seismol. Res. Lett., 82, 640.
+Simons, M., et al. (2011), The 2011 magnitude 9.0 Tohoku‐Oki earthquake: Mosaicking the megathrust from seconds to centuries, Science,
+332(6036), 1421–1425, doi:10.1126/science.1206731.
+Somerville, P., K. Irikura, R. Graves, S. Sawada, D. Wald, N. Abrahamson,
+Y. Iwasaki, T. Kagawa, N. Smith, and A. Kowada (1999), Characterizing
+crustal earthquake slip models for the prediction of strong ground
+motion, Seismol. Res. Lett., 70, 59–80, doi:10.1785/gssrl.70.1.59.
+Suwa, Y., S. Miura, A. Hasegawa, T. Sato, and K. Tachibana (2006), Interplate coupling beneath NE Japan inferred from three dimensional displacement fields, J. Geophys. Res., 111, B04402, doi:10.1029/
+2004JB003203.
+Wang, D., and J. Mori (2011), Rupture process of the 2011 off the Pacific
+coast of Tohoku earthquake (Mw 9.0) as imaged with back‐projection of
+teleseismic P‐waves, Earth Planets Space, 63, 603–607, doi:10.5047/
+eps.2011.05.029.
+Wessel, P., and W. H. F. Smith (1991), Free software helps map and display data, Eos Trans. AGU, 72(41), 441–446, doi:10.1029/90EO00319.
+Yao, H., P. Gerstoft, P. M. Shearer, and C. Mecklenbrauker (2011), Compressive sensing of the Tohoku‐Oki Mw 9.0 earthquake: Frequency‐
+dependent rupture modes, Geophys. Res. Lett., 38, L20310,
+doi:10.1029/2011GL049223.
+Zhang, H., Z. Ge, and L. Ding (2011), Three sub‐events composing the
+2011 off the Pacific coast of Tohoku Earthquake (Mw9.0) inferred from
+rupture imaging by back‐projecting teleseismic P waves, Earth Planets
+Space, 63, 595–598.
+D. Wang and J. Mori, Disaster Prevention Research Institute, Kyoto
+University, Uji, 611‐0011, Japan. (mori@eqh.dpri.kyoto‐u.ac.jp)
+
+6 of 6
+
+19448007, 2011, 22, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011GL049652, Wiley Online Library on [05/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+L22308
+
+

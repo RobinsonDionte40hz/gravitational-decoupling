@@ -1,0 +1,454 @@
+GEOPHYSICAL RESEARCH LETTERS, VOL. 40, 2518–2522, doi:10.1002/grl.50544, 2013
+
+Discriminating the tectonic and non-tectonic contributions
+in the ionospheric signature of the 2011, Mw7.1, dip-slip Van
+earthquake, Eastern Turkey
+Lucie M. Rolland,1 Mathilde Vergnolle,1 Jean-Mathieu Nocquet,1 Anthony Sladen,1
+Jean-Xavier Dessa,1 Farokh Tavakoli,2 Hamid Reza Nankali,2 and Frédéric Cappa1
+Received 6 April 2013; revised 7 May 2013; accepted 7 May 2013; published 7 June 2013.
+
+[1] It has previously been suggested that ionospheric
+perturbations triggered by large dip-slip earthquakes might
+offer additional source parameter information compared to
+the information gathered from land observations. Based on
+3D modeling of GPS- and GLONASS-derived total
+electron content signals recorded during the 2011 Van
+earthquake (thrust, intra-plate event, Mw = 7.1, Turkey),
+we conﬁrm that coseismic ionospheric signals do contain
+important information about the earthquake source,
+namely its slip mode. Moreover, we show that part of
+the ionospheric signal (initial polarity and amplitude
+distribution) is not related to the earthquake source, but is
+instead controlled by the geomagnetic ﬁeld and the
+geometry of the Global Navigation Satellite System
+satellites constellation. Ignoring these non-tectonic effects
+would lead to an incorrect description of the earthquake
+source. Thus, our work emphasizes the added caution that
+should be used when analyzing ionospheric signals for
+earthquake source studies. Citation: Rolland, L. M.,
+M. Vergnolle, J.-M. Nocquet, A. Sladen, J.-X. Dessa, F. Tavakoli,
+H. R. Nankali, and F. Cappa (2013), Discriminating the tectonic
+and non-tectonic contributions in the ionospheric signature of the
+2011, Mw7.1, dip-slip Van earthquake, Eastern Turkey, Geophys.
+Res. Lett., 40, 2518–2522, doi:10.1002/grl.50544.
+
+1. Introduction
+[2] Part of the seismic energy radiated by earthquakes is
+transferred, through dynamic coupling, to the surrounding
+ﬂuid envelopes (ocean and/or atmosphere). The sudden,
+piston-like motion of the Earth’s surface creates atmospheric
+acoustic-gravity waves. Due to the exponential decrease in
+air density with height in the atmosphere, the wave amplitude
+increases exponentially as they propagate towards the
+ionosphere. There, the atmospheric (neutral) waves set the
+plasma into motion that in turn induces perturbations in
+Additional supporting information may be found in the online version of
+this article.
+1
+Géoazur, Université de Nice, CNRS UMR 7329, IRD, UPMC,
+Observatoire de la Côte d Azur, Sophia-Antipolis, Valbonne, France.
+2
+National Cartographic Center, Surveying and Geodetic Department,
+Tehran, Iran.
+Corresponding author: L. M. Rolland, Géoazur, Université de Nice,
+CNRS UMR 7329, IRD, UPMC, Observatoire de la Côte d Azur, 250
+rue Albert Einstein, Sophia-Antipolis 06560 Valbonne, France.
+(lrolland@geoazur.unice.fr)
+©2013. American Geophysical Union. All Rights Reserved.
+0094-8276/13/10.1002/grl.50544
+
+electron density. Dip-slip earthquakes of magnitude M > 7
+are expected to induce total electron content (TEC) ﬂuctuations detectable using nearby dual-frequency GPS receivers
+[Calais and Minster, 1995; Heki and Ping, 2005]. Inclined
+receiver-satellite line-of-sights (LOS) can sound the ionosphere far from the receivers (up to ~250 km), and hence in
+broad zones above an epicenter, whether those zones are
+inland or offshore [Astafyeva et al., 2011].
+[3] A few studies have conﬁrmed that ionospheric signals
+contain information on large dip-slip earthquakes. For
+instance, Heki et al. [2006] suggested that the ionospheric
+GPS data resolve the lateral extent and segmentation of the
+2004 Mw = 9.1 Sumatra-Andaman earthquake rupture.
+Astafyeva and Heki [2009] analyzed coseismic GPS-derived
+TEC disturbances detected after three dip-slip earthquakes
+offshore Japan. Comparing the ionospheric observations
+with the coseismic displacements at the ground surface, they
+suggested that the ionospheric waveforms markedly depend
+on the focal mechanism of the earthquakes. This led the
+authors to propose that the ﬁrst disruption of the ionosphere
+might be similar to the motion of the neutral atmosphere
+induced by the seismic rupture. Would such a hypothesis
+be conﬁrmed, it would imply that the ground surface
+deformation that is induced by a large dip-slip earthquake
+might be inferred from its imprint in the ionosphere.
+[4] Yet the question remains posed: Is the ﬁrst disruption
+of the ionosphere similar to the motion of the neutral atmosphere that is induced by a seismic rupture? More broadly,
+which robust information on the earthquake source do the
+ionospheric signals contain? Answering these questions is
+especially important in the context of exploding ionospheric
+sounding capabilities offered by new (GLONASS) and
+future (Compass/Beidou and Galileo) Global Navigation
+Satellite System (GNSS) observations.
+[5] In the present study, we investigate the Mw = 7.1, 23
+October 2011, Van earthquake, Eastern Turkey, that
+occurred in conditions ideal to examine the questions we
+pose. The event is a well-instrumented thrust and hence
+dip-slip earthquake that ruptured a ~40 km-long fault with a
+fairly simple geometry. It occurred inland, and hence in
+conditions where the ionospheric signals have no interference with any tsunami-induced ionospheric perturbations
+[Kakinami et al., 2012]. Thanks to nearby GNSS continuous
+networks in Turkey and Iran, the ionospheric disturbances
+were measured in the vicinity of the rupture area with
+both an unprecedently complete azimuthal coverage and
+various LOS conﬁgurations (Figure 1). We perform 3D
+modeling of the ionospheric coupling, taking into account
+the geomagnetic ﬁeld and the geometry of the satellites
+
+2518
+
+a)
+
+b)
+
+Figure 1. a) Map of the sounding geometry during the Van earthquake on 23 October 2011. The green star depicts the
+epicenter location estimated by USGS. Triangles mark GNSS receivers. The IPP tracks for the SIRN station and the four
+nearby GNSS satellites are drawn with a blue thin line. The blue thick line marks the interval from earthquake onset time
+(blue star) to 20 min after. See Figure A1 for IPP tracks of all available observations. Inner panel: Coseismic vertical static
+deformation from USGS. b) dTEC travel-time diagram. The plain and dashed gray lines have a 3.5 km/s and 1 km/s
+moveout, respectively, and an origin at the rupture time. Color scale in TEC Unit.
+constellation [e.g., Heki and Ping, 2005; Rolland et al.,
+2011]. The comparison between the model, the TEC observations, and the earthquake parameters inferred on land,
+leads to isolate the source parameters that are effectively
+resolved in the ionosphere.
+
+2. The 23 October 2011 Van Earthquake
+[6] On 23 October 2011, the Mw = 7.1 Van earthquake
+occurred in Eastern Turkey, in the collision zone between
+the Arabian and the Eurasian plates (epicenter at 43.48 E;
+38.62 N, 10h41m21s UT). The earthquake caused destructive shaking and was felt throughout South Caucasus and
+up to the Levant region more than ~1000 km away. The
+rupture broke a reverse-slip fault and strikes WestSouthwest overall [Elliott et al., 2013]. The focal depth of
+the earthquake is estimated around 16–20 km, with the
+rupture having propagating both up dip and along strike
+to the west [U.S. Geological Survey reports]. The modeling of the seismological and geodetic data (InSAR and GPS)
+ﬁnd that the rupture produced 3 to 9 m of vertical slip at depth,
+that sustained a ~1 m uplift north of the fault trace [Figure 1a,
+Elliott et al., 2013 and Fielding et al., in rev.].
+
+3. Data Processing and Analysis
+3.1. GNSS-TEC Data Processing
+[7] Figure 1a shows the location of the GNSS receivers
+used in the study and the tracks of the GLONASS and GPS
+satellites R17 and G21, G29 and G30 at the time of the earthquake. We use GPS and GLONASS data from nine receivers
+of the Continuously Operating Reference Stations Turkish
+permanent network (Tusaga-Aktif; data available at http://
+supersites.earthobservations.org/van.php). We also use GPS
+data from nine receivers of the Iranian Permanent GPS
+Network for Geodynamics (IPGN). In both data sets, the
+sample interval is 30 s. Both the stations and satellites
+
+coverage offer ionospheric sounding directly above, and
+broadly around, the epicentral area.
+[8] We extracted biased slant TEC time series from the
+phase differences of the two carrier frequencies. The latter
+are identical for all GPS satellites (f1 = 1575.42 MHz and
+f2 = 1227.60 MHz), but vary with the channel number K for
+GLONASS satellites (f1 = 1602 + K x 0.5625 MHz and
+f2 = 1246 + K x 0.4375 MHz, with K selected in the range
+[7 6]) (GLONASS Interface Control Document).
+Ionospheric daily variations and instrumental biases are
+removed using a zero-phase third-order ﬁnite impulse
+response Butterworth ﬁlter from 2 mHz to 8 mHz (half the
+Nyquist frequency). The frequency bandwidth is chosen to
+highlight the acoustically resonant signal (acoustic cutoff
+frequency ~4.4 mHz) [Dautermann et al., 2009].
+3.2. Coseismic Ionospheric Pattern
+[9] We locate the slant TEC variation measurements and
+correct them to vertical TEC after Rolland et al. [2011].
+The ionosphere is considered as a thin shell that intersects
+the satellite-receiver raypaths at Ionospheric Pierce Points
+(IPP). The altitude of the ionospheric thin layer is set up at
+the height of maximum electron density hmF2 = 280 km
+given by the IRI model for the local conditions [Bilitza and
+Reinisch, 2008]. The ionospheric perturbation is found to
+appear at the LOS SIRN-R17 470 s (+/15s) after the earthquake, then to propagate radially at ~1 km/s from the epicentral area (Figure 1b), with a maximum peak amplitude of 0.25
+TECU (1 TECU = 1016 electrons/m2). This apparent velocity
+is close to the sound speed at ionospheric heights. Thus, the
+signal is consistent with the acoustic pressure wave triggered
+by the earthquake and immediately launched in the surrounding atmosphere [Afraimovich et al., 2001]. The wave takes
+two distinct shapes with opposite initial polarity: the usual
+coseismic “N-wave” shape—a bipolar pulse with a positive
+trailing part and a negative recovery part, and a one-phase
+negative pulse shape (Figure 2a).
+
+2519
+
+19448007, 2013, 11, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/grl.50544, Wiley Online Library on [05/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ROLLAND ET AL.: VAN EARTHQUAKE IONOSPHERIC SIGNATURE
+
+a)
+
+b)
+
+Figure 2. a) Selection of observed (colored) and modeled (gray) dTEC time series. b) Map of observed (circles) and
+modeled (inner diamonds) initial dTEC peak amplitude for all satellite-receiver pairs. The green star marks the USGS epicenter location and the white star the centroid of the deformation inferred from the ionospheric observations. Data with low
+signal-noise ratio (SNR < 3) are not shown. The IPP marked with a bolder circle correspond to the data shown on
+Figure 2a). All series in supporting information Figure A2.
+[10] To highlight the spatial distribution of the polarities,
+we map the maximum value of the initial TEC change
+(Figure 2b). The map reveals that the initial TEC changes
+are positive South of the earthquake source, and negative
+North of it (with the exception of LOS SIRN-R17 that
+crosses the epicentral area from South to North). The map
+also reveals that the most intense TEC changes occurs in
+the NW and SE parts of the zone, i.e., the ionospheric signal
+shows NW and SE directivity transverse to the WestSouthwest-striking rupture plane. Similar observations were
+done for the 2008 Mw = 7.9 Wenchuan earthquake
+[Afraimovich et al., 2010] and interpreted to attest for a link
+between the rupture geometry and the ionospheric radiation
+pattern transverse directivity. We test this suggestion below.
+
+4. Modeling
+[11] So far, the most successful attempts to model the nearsource earthquake [Heki and Ping, 2005; Heki et al., 2006] or
+volcano-induced ionospheric disturbances [Dautermann
+et al., 2009] are based on acoustic ray tracing and
+atmosphere-ionosphere coupling. We thus follow this latter
+strategy to examine the impact of the ionospheric coupling
+and ionospheric sounding on the TEC signal polarity
+and directivity.
+[12] We ﬁrst model the neutral pressure waveﬁeld from a
+point-like compressional motion. For that, we follow the
+method by Dautermann et al. [2009] that we extend to a
+3D spherical regular grid in order to compute the coseismic
+ionospheric perturbation [Rolland et al., 2011]. The arrival
+time (tarrival), wave vector (k), and ampliﬁcation factor that
+is related to the geometrical spreading and the kinetic energy
+conservation are computed using acoustic ray tracing [Dessa
+et al., 2005] for a stratiﬁed atmosphere. After the parameters
+along rays are interpolated to the regular 3D grid (Figure 3a),
+the ray amplitude is convolved with an N-wave shape source
+function [Heki and Ping, 2005; Dautermann et al., 2009] that
+describes the time evolution of the coupled neutral acoustic
+wave particle velocity at ground level:
+
+vðt Þ ¼
+
+pﬃﬃ
+ð
+A 2
+ðt  t 0 Þe
+s3=2 p1=4
+
+tt 0 Þ
+2s2
+
+2
+
+(1)
+
+where t0 is the time of maximum motion, s is the pulse width,
+and A is the initial amplitude factor.
+[13] While the acoustic wave is propagating in the atmosphere, its phase and amplitude are affected by frequencydependent viscous and thermal losses. As we are concerned
+with the waveform shape, we must include these effects,
+and we do it in an ad-hoc way. First, we parameterize the
+broadening of the pulse that is due to the dispersion, following the approach proposed by Dautermann et al. [2009]. At a
+given location r, the neutral particle velocity u(t,r) is a symmetric bipolar pulse whose width varies linearly as s(t,r) =
+btarrival(r). Second, we compute the viscous attenuation effects on the amplitude following Garcia et al. [2005], assuming a 5 mHz monochromatic wave.
+[14] Finally, we incorporate the neutral-plasma coupling
+effect following the scheme proposed by Rolland et al.
+[2011]. We assume that the ion particle velocity vi is
+vi = (vn  1B)1B, where vn = uk is the neutral perturbation
+velocity vector derived from the previous steps, and 1B is the
+geomagnetic ﬁeld unit vector [Hooke, 1970]. Next we derive
+the 3D electron density perturbation dNe by integrating the
+linearized continuity equation for the electrons over time; we
+neglect loss and production terms and assume that perturbations
+are small compared to the ambient ionization density Ne0:
+dN e ðt; rÞ ¼
+
+Z t
+
+rðN e0 ðrÞvi ðt; rÞÞ dt
+
+(2)
+
+0
+
+[15] The 3D a priori ionization density Ne0 and local geomagnetic ﬁeld vector B are derived from the IRI and the
+IGRF models, respectively. Ne0 reaches a maximum of
+1.2  1012 electrons/m3 at 280 km height, and B has an inclination angle of ~56 (Figure 3a), and an easterly declination
+of ~6 . In order to compare the model results with the
+observations, we spatially integrate dNe along the GNSSsatellites raypaths.
+
+2520
+
+19448007, 2013, 11, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/grl.50544, Wiley Online Library on [05/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ROLLAND ET AL.: VAN EARTHQUAKE IONOSPHERIC SIGNATURE
+
+Figure 3. Our preferred ionospheric model. a) Ray-tracing geometry for a point source in North–South vertical plane, along with
+a snapshot of dN e, 13 min after earthquake. Horizontal slices of dN e at 280 km height b) without or c) with the geomagnetic ﬁeld
+effect. The source is located at the purple star, and the dashed circles show epicentral distance isolines at 100 km intervals. See also
+supporting information Movie 1. d) Ionospheric radiation pattern, computed at 280 km height and 200 km of epicentral distance.
+Blue is extensional (negative polarity), and red is compressional (positive polarity). See supporting information Table A1 for other
+geomagnetic ﬁeld conﬁgurations. e) Latitude dependence of dN e waveforms with and without B (green and gray, respectively)
+compared to vn (blue). f) Amplitude of waveforms of panel e). See deﬁnition of dN e , vn and vi in text (section 4).
+
+5. Results and Discussion
+[16] We focus our study on the ﬁrst 20 min after the earthquake to ensure that we capture the ﬁrst and main pulse related to the earthquake rupture. We apply the same ﬁltering
+to the TEC synthetics and the GNSS-derived TEC time
+series, and compare them (dTEC, Figure 2a). The modeled
+and observed data show good agreement in arrival time,
+waveform (correlation coefﬁcient of 0.86), and relative
+amplitude for a pulse broadening factor b = 0.04 s1 and an
+initial amplitude factor A = 1.2, both tuned by least-square
+ﬁtting. Figure 2b compares the radiation pattern of actual
+data and synthetics. This shows that both the polarity pattern
+and the NW and SE directivity are well reproduced using
+the compressional point source. Thus, the ionospheric
+observations are consistent with a reverse-type rupture that
+
+would have produced a surface uplift over a small spatial
+extent. These inferences agree with inland seismological
+(Figure 1b) and geodetic observations of the Van earthquake
+[Elliott et al., 2013].
+[17] To discriminate the parameters controlling the main
+features of the observations—i.e., (1) reversed polarity across
+the epicentral area (positive northward and negative southward) and (2) NW and SE directivity transverse to the rupture
+plane—we investigate the intermediary steps of our model.
+Thus, we present 2D snapshots of the spatial distribution of
+the electron density perturbation (i.e., before the spatial integration step) with (Figures 3a and 3c) and without geomagnetic ﬁeld B (Figure 3b). For this latter case, we consider
+that the neutrals and the ions are perfectly coupled everywhere, i.e., vi = vn. Figure 3e compares the waveforms of vn
+with the waveforms of dNe in both cases (with and without
+
+2521
+
+19448007, 2013, 11, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/grl.50544, Wiley Online Library on [05/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ROLLAND ET AL.: VAN EARTHQUAKE IONOSPHERIC SIGNATURE
+
+B) for selected latitudes. The waveforms are alike due above
+and South of the epicenter, whereas in the North, dNe shows
+the one-phase negative pulses. These latter result from phase
+shifts occurring because the ion velocity divergence there is
+signiﬁcant [Hooke, 1970].
+[18] The synthetic ionospheric radiation pattern (Figure 3d)
+further emphasizes the effects of B on the ionospheric
+response. It shows an asymmetric antenna-like pattern—with
+large positive dNe southward and smaller negative dNe northward. Southward, the particle velocity (vn) and B are parallel
+(see Figure 3a), meaning that the coupling strength is maximum [Heki and Ping, 2005]. The NW and SE directivity
+appears only at the ﬁnal spatial integration step, proving that
+it relates to the satellites observation geometry and not to the
+rupture strike itself.
+[19] The approach can be applied for any geomagnetic
+conﬁguration (see supporting information Table A1).
+This shows that the geomagnetic ﬁeld markedly controls
+the polarity of the very ﬁrst ionospheric perturbations.
+Based on the analysis of three earthquakes, Astafyeva
+and Heki [2009] suggested that the earthquake source
+might be characterized by the polarity of the initial ionospheric perturbations. Our modeling nuances this suggestion: such a characterization can only be done in the
+regions where the geomagnetic ﬁeld hardly distorts the
+ionospheric response and thus lets it fairly resembling
+the initial motion. In the Northern hemisphere, the geomagnetic ﬁeld effects are minimum due above and South
+of the rupture line. In the Southern hemisphere, the situation is opposite, and the distortions are minimum North of
+the ruptures. This is conﬁrmed by the analysis of the
+Mw = 8.8 2010 offshore Maule Chilean earthquake, for
+which GPS-TEC observations show a negative initial
+change South of the rupture and a positive initial change
+North of it [see Figure 1c in Kakinami et al., 2012].
+[20] To complement our source modeling, we performed a
+spatial grid search to determine the location of the uplift point
+source. We found this location, deﬁned by the minimum
+data-model discrepancy, being at 43.5 E and 38.7 N
+(Figure 2b), that is in the rupture area and less than 10 km
+away from the zone of maximum uplift derived by Elliott
+et al. [2013]. This result further validates our modeling
+approach and its potential to constrain additional parameters
+of the earthquake source.
+
+6. Conclusions and Prospects
+[21] We have investigated the initial polarity and amplitude distribution of near-ﬁeld coseismic ionospheric signals
+observed after the 2011 Van earthquake, making use, for
+the ﬁrst time, of both GPS and GLONASS capabilities. We
+performed 3D modeling of the data taking into account the
+effects of the geomagnetic ﬁeld and the conﬁguration of the
+satellites constellation. The modeling results show that (1)
+the ionospheric observations are consistent with a reversetype rupture having produced a signiﬁcant uplift at the
+ground surface (~1 m), (2) the polarity change observed on
+either side of the rupture is primarily linked to geomagnetic
+ﬁeld effects, not to the rupture properties, and (3) the NW
+and SE directivity is primarily linked to the satellites geometry, not to the rupture geometry.
+[22] Our work emphasizes the added caution that should be
+used when analyzing ionospheric signals for earthquake
+
+source studies. The proposed 3D modeling approach is, so
+far, the most comprehensive reading of the GNSS-derived
+TEC patterns. We suggest that this approach should be used
+more broadly to interpret coseismic TEC observations in an
+attempt to derive reliable constrains on the earthquake source.
+[23] At present, we only model the ﬁrst and main part of
+the ionospheric signal, but we expect that, in the forthcoming
+years, we may succeed modeling the entire signal. This reﬁned modeling should lead recovering the major intrinsic
+properties of the earthquake ruptures, such as their magnitude, their spatial extent, and the space and time evolution
+of the coseismic vertical motions. This will complement
+and thus improve our ability to properly characterize the
+earthquake source and the related hazards. Because of the relatively short time for the ground perturbation to reach the
+ionosphere (~8 min), these signals also have the potential to
+serve in the design of reliable and cost-effective tsunami
+early-warning systems.
+[24] Acknowledgments. This research project was supported by the
+French National Research Agency (ANR) TO-EOS project ANR-11JAPN-008. L. Rolland is funded by the University of Nice and the ANR.
+We thank the National Cartographic Center of Iran for providing IPGN
+GPS data. We are grateful to D. Mikesell, P. Coïsson, R.Garcia, M. Vallée,
+and J. Virieux for helpful discussions, and to I. Manighetti for her comments
+on a preliminary draft. We thank Wes Swartz and an anonymous referee for
+their constructive reviews.
+
+References
+Afraimovich, E., N. Perevalova, A. Plotnikov, and A. Uralov (2001), The shockacoustic waves generated by earthquakes, Ann. Geophys., 19, 395–409.
+Afraimovich, E. L., D. Feng, V. V. Kiryushkin, and E. I. Astafyeva (2010),
+Near-Field TEC response to the main schock of the 2008 Wenchuan earthquake, EPS, 62(11), 899–904, doi:10.5047/eps.2009.07.002.
+Astafyeva, E., and K. Heki (2009), Dependence of waveform of near-ﬁeld
+coseismic ionospheric disturbances, EPS, 61(7), 939–943.
+Astafyeva, E., P. Lognonné, and L. Rolland (2011), First ionospheric images
+of the seismic fault slip on the example of the Tohoku-oki earthquake,
+Geophys. Res. Lett., 38, L22104, doi:10.1029/2011GL049623.
+Bilitza, D., and B. Reinisch (2008), International Reference Ionosphere
+2007: Improvements and new parameters, Adv. Space Res., 42(4),
+599–609, doi:10.1016/j.asr.2007.07.048.
+Calais, E., and J. B. Minster (1995), GPS detection of ionospheric perturbations following the January 17, 1994, Northridge earthquake, Geophys.
+Res. Lett., 22, 1045–1048.
+Dautermann, T., E. Calais, and G. S. Mattioli (2009), GPS detection and
+energy estimation of the ionospheric wave caused by the 13 July 2003
+explosion of the Soufrière Hills Volcano, Montserrat, J. Geophys. Res.,
+114, 2202, doi:10.1029/2008JB005722.
+Dessa, J.-X., J. Virieux, and S. Lambotte (2005), Infrasound modeling in a
+spherical heterogeneous atmosphere, Geophys. Res. Lett., 32, L12,808,
+doi:10.1029/2005GL022867.
+Elliott, J. R., A. C. Copley, R. Holley, K. Scharer, and B. Parsons (2013),
+The 2011 Mw 7.1 Van (Eastern Turkey) Earthquake, J. Geophys. Res.,
+118, doi:10.1002/jgrb.50117.
+Garcia, R., P. Lognonne, and X. Bonnin (2005), Detecting atmospheric perturbations produced by Venus quakes, Geophys. Res. Lett., 32, 16,205,
+doi:10.1029/2005GL023558.
+Heki, K., and J. Ping (2005), Directivity and apparent velocity of the
+coseismic ionospheric disturbances observed with a dense GPS array,
+EPSL, 236, 50117, 845–855, doi:10.1016/j.epsl.2005.06.010.
+Heki, K., Y. Otsuka, N. Choosakul, N. Hemmakorn, T. Komolmis, and
+T. Maruyama (2006), Detection of ruptures of Andaman fault segments
+in the 2004 great Sumatra earthquake with coseismic ionospheric disturbances, J. Geophys. Res., 111, 9313, doi:10.1029/2005JB004202.
+Hooke, W. H. (1970), Ionospheric response to internal gravity waves and the
+F2 region response, J. Geophys. Res., 132, 5535–5544.
+Kakinami, Y., M. Kamogawa, Y. Tanioka, S. Watanabe, A. R. Gusman,
+J.-Y. Liu, Y. Watanabe, and T. Mogi (2012), Tsunamigenic ionospheric
+hole, Geophys. Res. Lett., 39, L00G27, doi:10.1029/2011GL050159.
+Rolland, L. M., P. Lognonné, and H. Munekane (2011), Detection and
+modeling of Rayleigh wave induced patterns in the ionosphere, J.
+Geophys. Res., 116, A05320, doi:10.1029/2010JA016060.
+
+2522
+
+19448007, 2013, 11, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/grl.50544, Wiley Online Library on [05/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ROLLAND ET AL.: VAN EARTHQUAKE IONOSPHERIC SIGNATURE
+
+
